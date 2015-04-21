@@ -2,3 +2,4 @@
 *.pyc
 __pycache__
 __.idea__
+__/.idea/__
